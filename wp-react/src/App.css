@@ -1,0 +1,36 @@
+.App {
+}
+
+.App-header {
+  background-color: #222;
+  height: 60px;
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.wp-title {
+  color: #000080;
+}
+
+#blogposts {
+  margin: 10px auto;
+  max-width: 1000px;
+}
+
+.clear-float {
+  clear: both;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
